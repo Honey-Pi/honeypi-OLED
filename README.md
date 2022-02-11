@@ -1,3 +1,9 @@
-# honeypi-OLED
+# OLED on Raspberry Pi
 
-Please do not use this code at the moment. It is under development and far from a good release. 
+## Prerequisites
+
+* HoneyPi Firmware [as provided by HoneyPi](https://github.com/Honey-Pi/HoneyPi)
+
+## Full Documentation (in German)
+
+Please download this Word file: [Modem.docx](https://github.com/Honey-Pi/honeypi-OLED/Bienenwaage_OLED.pdf) 
