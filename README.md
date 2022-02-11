@@ -6,4 +6,5 @@
 
 ## Full Documentation (in German)
 
-Please download this Word file: [Modem.docx](https://github.com/Honey-Pi/honeypi-OLED/Bienenwaage_OLED.pdf) 
+Please download this Word file: [Bienenwaage_OLED.pdf](https://github.com/Honey-Pi/honeypi-OLED/Bienenwaage_OLED.pdf) 
+
